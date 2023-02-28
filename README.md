@@ -24,7 +24,7 @@ Execute the completed notebook before you commit and push to GitHub.
 ## Task 4. Push to GitHub
 Push to GitHub.
 
-## Optional Task 5. Bonus
+## Task 5. Optional Bonus
 Practice more machine learning skills by working through 15.5 with the California Housing Dataset.
 
 Execute the notebook.
