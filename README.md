@@ -74,4 +74,4 @@ Practice more machine learning skills by working through 15.5 with the Californi
 Follow the instructions all the way though loading the data, training and testing the data, visualizing the data, and choosing the best model from the 4 listed. 
 Customize your presentation and include helpful remarks to "tell a story with data".
 Execute the notebook.
-Add/commit/push your changes up to your GitHub repo.
+Add/commit/push your changes up to your GitHub repo. 
